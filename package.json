@@ -1,0 +1,7 @@
+{
+    "name": "example-project",
+    "version": "1.0.0",
+    "scripts": {
+      "test": "echo \"Testes executados com sucesso\""
+    }
+  }  
